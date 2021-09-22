@@ -5,4 +5,5 @@ he is a good boy
 
 she is a bad girl
 
-they are no fiend
+they are good friend
+
