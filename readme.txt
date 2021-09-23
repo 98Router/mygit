@@ -3,7 +3,7 @@ Git is free software distributed under the GPL.
 
 he is a good boy
 
-she is a bad girl
+she is a good girl
 
 they are good friend
 
